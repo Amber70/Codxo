@@ -310,11 +310,6 @@ display: none;
     font-size: 3rem;
   }
 
-
-.portfolio .box-container .box:hover img{
-    transform: scale(1.2);
-}
-
 .contact .row{
     display: flex;
     align-items: center;
